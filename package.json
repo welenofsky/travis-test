@@ -1,0 +1,12 @@
+{
+  "name": "travis-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
